@@ -40,14 +40,13 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
 
 ## 🤸 챌린지 크루
 
+
 <table align="center">
 <tr align="center">
-  <td width="150"><img src="https://avatars.githubusercontent.com/orieasy1" width="80"></td>
-  <td width="150"><img src="https://avatars.githubusercontent.com/kjuni1914" width="80"></td>
-  <td width="150"><img src="https://avatars.githubusercontent.com/lzcuro" width="80"></td>
-  <td width="150"><img src="https://avatars.githubusercontent.com/MelonChicken" width="80"></td>
-  <td width="150"><img src="https://avatars.githubusercontent.com/dohyeoplim" width="80"></td>
-  <td width="150"><img src="https://via.placeholder.com/80x80?text=No+Img"></td>
+  <td width="250"><img src="https://avatars.githubusercontent.com/orieasy1" width="90"></td>
+  <td width="250"><img src="https://avatars.githubusercontent.com/kjuni1914" width="90"></td>
+  <td width="250"><img src="https://avatars.githubusercontent.com/lzcuro" width="90"></td>
+  <td width="250"><img src="https://avatars.githubusercontent.com/MelonChicken" width="90"></td>
 </tr>
 
 <tr align="center">
@@ -55,8 +54,6 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="https://github.com/kjuni1914">준희</a></td>
   <td><a href="https://github.com/lzcuro">영빈</a></td>
   <td><a href="https://github.com/MelonChicken">준우</a></td>
-  <td><a href="https://github.com/dohyeoplim">도협</a></td>
-  <td><a href="https://github.com/">가영</a></td>
 </tr>
 
 <tr align="center">
@@ -64,41 +61,57 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="">준희 블로그</a></td>
   <td><a href="">영빈 블로그</a></td>
   <td><a href="">준우 블로그</a></td>
-  <td><a href="">도협 블로그</a></td>
-  <td><a href="">가영 블로그</a></td>
 </tr>
 </table>
 
 <table align="center">
 <tr align="center">
-  <td width="150"><img src="https://avatars.githubusercontent.com/hajinki" width="80"></td>
-  <td width="150"><img src="https://avatars.githubusercontent.com/yeomine" width="80"></td>
-  <td width="150"><img src="https://avatars.githubusercontent.com/ChooJG" width="80"></td>
-  <td width="150"><img src="https://avatars.githubusercontent.com/itisyijy" width="80"></td>
-  <td width="150"><img src="https://via.placeholder.com/80x80?text=No+Img"></td>
-  <td width="150"><img src="https://avatars.githubusercontent.com/kimm00" width="80"></td>
+  <td width="250"><img src="https://avatars.githubusercontent.com/dohyeoplim" width="90"></td>
+  <td width="250"><img src="https://via.placeholder.com/80x80?text=No+Img"></td>
+  <td width="250"><img src="https://avatars.githubusercontent.com/hajinki" width="90"></td>
+  <td width="250"><img src="https://avatars.githubusercontent.com/yeomine" width="90"></td>
 </tr>
 
 <tr align="center">
+  <td><a href="https://github.com/dohyeoplim">도협</a></td>
+  <td><a href="https://github.com/">가영</a></td>
   <td><a href="https://github.com/hajinki">하진</a></td>
   <td><a href="https://github.com/yeomine">정우</a></td>
+</tr>
+
+<tr align="center">
+  <td><a href="">도협 블로그</a></td>
+  <td><a href="">가영 블로그</a></td>
+  <td><a href="">하진 블로그</a></td>
+  <td><a href="">정우 블로그</a></td>
+</tr>
+</table>
+
+<table align="center">
+<tr align="center">
+  <td width="200"><img src="https://avatars.githubusercontent.com/ChooJG" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/itisyijy" width="90"></td>
+  <td width="200"><img src="https://via.placeholder.com/80x80?text=No+Img"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/kimm00" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/shinh09" width="90"></td>
+</tr>
+
+<tr align="center">
   <td><a href="https://github.com/ChooJG">제근</a></td>
   <td><a href="https://github.com/itisyijy">정윤</a></td>
   <td><a href="https://github.com/">민석</a></td>
   <td><a href="https://github.com/kimm00">도이</a></td>
+  <td><a href="https://github.com/shinh09">신형</a></td>
 </tr>
 
 <tr align="center">
-  <td><a href="">하진 블로그</a></td>
-  <td><a href="">정우 블로그</a></td>
   <td><a href="">제근 블로그</a></td>
   <td><a href="https://velog.io/@itisyijy">정윤 블로그</a></td>
   <td><a href="">민석 블로그</a></td>
   <td><a href="https://velog.io/@kimm00">도이 블로그</a></td>
+  <td><a href="">신형 블로그</a></td>
 </tr>
 </table>
-
-<br>
 
 <br>
 
