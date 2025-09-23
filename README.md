@@ -67,7 +67,7 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
 <table align="center">
 <tr align="center">
   <td width="250"><img src="https://avatars.githubusercontent.com/dohyeoplim" width="90"></td>
-  <td width="250"><img src="https://via.placeholder.com/80x80?text=No+Img"></td>
+  <td width="250"><img src="https://avatars.githubusercontent.com/no-glass-otacku" width="90"></td>
   <td width="250"><img src="https://avatars.githubusercontent.com/hajinki" width="90"></td>
   <td width="250"><img src="https://avatars.githubusercontent.com/yeomine" width="90"></td>
 </tr>
