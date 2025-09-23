@@ -102,6 +102,8 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="https://github.com/">민석</a></td>
   <td><a href="https://github.com/kimm00">도이</a></td>
   <td><a href="https://github.com/shinh09">신형</a></td>
+  <td><a href="https://github.com/yuyoung924">유영</a></td>
+  
 </tr>
 
 <tr align="center">
@@ -110,6 +112,8 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="">민석 블로그</a></td>
   <td><a href="https://velog.io/@kimm00">도이 블로그</a></td>
   <td><a href="">신형 블로그</a></td>
+  <td><a href="https://velog.io/@yuyoung924">유영 블로그</a></td>
+  
 </tr>
 </table>
 
