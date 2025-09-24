@@ -13,7 +13,7 @@
 | 하진 | [링크]() | [ ] |
 | 정우 | [링크]() | [ ] |
 | 제근 | [링크]() | [ ] |
-| 정윤 | [링크]() | [ ] |
+| 정윤 | [링크](https://velog.io/@itisyijy/Review-Federated-Foundation-Models-on-Heterogeneous-Time-Series-FFTS-hogo6nsh) | [✅] |
 | 민석 | [링크]() | [ ] |
 | 도이 | [링크]() | [ ] |
 
