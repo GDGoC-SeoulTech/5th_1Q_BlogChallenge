@@ -111,7 +111,7 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="https://velog.io/@itisyijy">정윤 블로그</a></td>
   <td><a href="https://blog.naver.com/beaprotagonist">민석 블로그</a></td>
   <td><a href="https://velog.io/@kimm00">도이 블로그</a></td>
-  <td><a href="">신형 블로그</a></td>
+  <td><a href="https://velog.io/@shinh09">신형 블로그</a></td>
   <td><a href="https://velog.io/@yuyoung924">유영 블로그</a></td>
   
 </tr>
