@@ -66,10 +66,11 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
 
 <table align="center">
 <tr align="center">
-  <td width="250"><img src="https://avatars.githubusercontent.com/dohyeoplim" width="90"></td>
-  <td width="250"><img src="https://avatars.githubusercontent.com/no-glass-otacku" width="90"></td>
-  <td width="250"><img src="https://avatars.githubusercontent.com/hajinki" width="90"></td>
-  <td width="250"><img src="https://avatars.githubusercontent.com/yeomine" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/dohyeoplim" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/no-glass-otacku" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/hajinki" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/yeomine" width="90"></td>
+  <td width="200"><img src="https://avatars.githubusercontent.com/yuyoung924" width="90"></td>
 </tr>
 
 <tr align="center">
@@ -77,6 +78,7 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="https://github.com/no-glass-otacku">가영</a></td>
   <td><a href="https://github.com/hajinki">하진</a></td>
   <td><a href="https://github.com/yeomine">정우</a></td>
+  <td><a href="https://github.com/yuyoung924">유영</a></td>
 </tr>
 
 <tr align="center">
@@ -84,6 +86,7 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="https://velog.io/@no-glass-otacku">가영 블로그</a></td>
   <td><a href="https://pajingi.tistory.com/">하진 블로그</a></td>
   <td><a href="https://velog.io/@yjw326/posts">정우 블로그</a></td>
+  <td><a href="https://velog.io/@yuyoung924">유영 블로그</a></td>
 </tr>
 </table>
 
@@ -102,8 +105,6 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="https://github.com/MS-Choi2057">민석</a></td>
   <td><a href="https://github.com/kimm00">도이</a></td>
   <td><a href="https://github.com/shinh09">신형</a></td>
-  <td><a href="https://github.com/yuyoung924">유영</a></td>
-  
 </tr>
 
 <tr align="center">
@@ -112,7 +113,6 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
   <td><a href="https://blog.naver.com/beaprotagonist">민석 블로그</a></td>
   <td><a href="https://velog.io/@kimm00">도이 블로그</a></td>
   <td><a href="https://velog.io/@shinh09">신형 블로그</a></td>
-  <td><a href="https://velog.io/@yuyoung924">유영 블로그</a></td>
   
 </tr>
 </table>
