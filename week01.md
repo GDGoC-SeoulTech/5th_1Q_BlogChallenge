@@ -4,7 +4,7 @@
 - [ ] 지원 — [링크]()
 - [ ] 준희 — [링크]()
 - [ ] 영빈 — [링크]()
-- [ ] 준우 — [링크]()
+- [x] 준우 — [[Research Note] When Matrices Go Infinite (1/2) : Mathematical Intuition](https://velog.io/@melon-chicken/Research-Note-When-Matrices-Go-Infinite-12-Mathematical-Intuition)
 - [x] 도협 — [Transformers in Vision — Paper Review](https://medium.com/@dohyeoplim/transformers-in-vision-paper-review-861da5888956)
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
