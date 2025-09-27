@@ -9,7 +9,7 @@
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
 - [ ] 정우 — [링크]()
-- [ ] 제근 — [대용량 이미지 데이터의 (base64) 요청과 응답 처리](https://cndowy21.tistory.com/52)
+- [x] 제근 — [대용량 이미지 데이터의 (base64) 요청과 응답 처리](https://cndowy21.tistory.com/52)
 - [x] 정윤 — [Federated Foundation Models on Heterogeneous Time Series (FFTS)](https://velog.io/@itisyijy/Review-Federated-Foundation-Models-on-Heterogeneous-Time-Series-FFTS-hogo6nsh)
 - [ ] 민석 — [링크]()
 - [ ] 도이 — [링크]()
