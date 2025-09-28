@@ -11,7 +11,7 @@
 - [x] 정우 — [[Flutter] main.dart 분석하기](https://velog.io/@yjw326/Flutter-main.dart-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0)
 - [x] 제근 — [대용량 이미지 데이터의 (base64) 요청과 응답 처리](https://cndowy21.tistory.com/52)
 - [x] 정윤 — [Federated Foundation Models on Heterogeneous Time Series (FFTS)](https://velog.io/@itisyijy/Review-Federated-Foundation-Models-on-Heterogeneous-Time-Series-FFTS-hogo6nsh)
-- [ ] 민석 — [링크]()
+- [x] 민석 — [당신의 바이브 코딩은 티가 난다](https://blog.naver.com/beaprotagonist/224024980141)
 - [ ] 도이 — [링크]()
 - [ ] 유영 — [링크]()
 - [ ] 신형 — [링크]()
