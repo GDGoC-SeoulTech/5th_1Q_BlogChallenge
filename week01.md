@@ -1,7 +1,7 @@
 # Week 1 - GDG 파워블로거 챌린지
 
 ## 📝 블로그 업로드
-- [ ] 지원 — [링크]()
+- [x] 지원 — [Unity 구글폼 연동해서 데이터를 구글 스프레드시트에 저장하는 방법](https://easy1nhard2.tistory.com/28)
 - [x] 준희 — [쓰토틀링과 디바운싱](https://velog.io/@kjuni1914/쓰로틀링과-디바운싱)
 - [x] 영빈 — [What_is_Explainable AI?](https://velog.io/@lzcuro/%EC%84%A4%EB%AA%85-%EA%B0%80%EB%8A%A5%ED%95%9C-AI%EC%97%90-%EB%8C%80%ED%95%B4)
 - [x] 준우 — [[Research Note] When Matrices Go Infinite (1/2) : Mathematical Intuition](https://velog.io/@melon-chicken/Research-Note-When-Matrices-Go-Infinite-12-Mathematical-Intuition)
