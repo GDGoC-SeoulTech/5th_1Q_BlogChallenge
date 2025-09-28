@@ -6,7 +6,7 @@
 - [ ] 영빈 — [링크]()
 - [x] 준우 — [[Research Note] When Matrices Go Infinite (1/2) : Mathematical Intuition](https://velog.io/@melon-chicken/Research-Note-When-Matrices-Go-Infinite-12-Mathematical-Intuition)
 - [x] 도협 — [Transformers in Vision — Paper Review](https://medium.com/@dohyeoplim/transformers-in-vision-paper-review-861da5888956)
-- [ ] 가영 — [링크]()
+- [x] 가영 — [StringBuilder와 문자열 조작 for 코딩테스트](https://velog.io/@no-glass-otacku/StringBuilder%EC%99%80-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%A1%B0%EC%9E%91)
 - [ ] 하진 — [링크]()
 - [x] 정우 — [[Flutter] main.dart 분석하기](https://velog.io/@yjw326/Flutter-main.dart-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0)
 - [x] 제근 — [대용량 이미지 데이터의 (base64) 요청과 응답 처리](https://cndowy21.tistory.com/52)
