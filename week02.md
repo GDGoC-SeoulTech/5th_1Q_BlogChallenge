@@ -4,7 +4,7 @@
 - [x] 지원 — [Chrome 확장 프로그램과 Node.js 서버 간 WebSocket 통신 구축 방법](https://easy1nhard2.tistory.com/30)
 - [ ] 준희 — [링크]()
 - [ ] 영빈 — [링크]()
-- [ ] 준우 — [링크]()
+- [x] 준우 — [[Research Note] When Matrices Go Infinite (2/2) : ML Perspective](https://velog.io/@melon-chicken/Research-Note-When-Matrices-Go-Infinite-22-ML-Perspective)
 - [ ] 도협 — [링크]()
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
