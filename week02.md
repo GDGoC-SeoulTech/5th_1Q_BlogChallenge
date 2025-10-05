@@ -1,7 +1,7 @@
 # Week 2 - GDG 파워블로거 챌린지
 
 ## 📝 블로그 업로드
-- [ ] 지원 — [링크]()
+- [x] 지원 — [Chrome 확장 프로그램과 Node.js 서버 간 WebSocket 통신 구축 방법](https://easy1nhard2.tistory.com/30)
 - [ ] 준희 — [링크]()
 - [ ] 영빈 — [링크]()
 - [ ] 준우 — [링크]()
