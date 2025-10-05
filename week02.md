@@ -7,7 +7,7 @@
 - [x] 준우 — [[Research Note] When Matrices Go Infinite (2/2) : ML Perspective](https://velog.io/@melon-chicken/Research-Note-When-Matrices-Go-Infinite-22-ML-Perspective)
 - [x] 도협 — [[Paper Review] Swin Transformer](https://dohyeoplim.medium.com/paper-review-swin-transformer-93197dcf6151)
 - [ ] 가영 — [링크]()
-- [ ] 하진 — [링크]()
+- [x] 하진 — [랭체인스터디1주차](https://pajingi.tistory.com/m/4)
 - [x] 정우 — [Flutter - 간단한 UI 렌더링 과정](https://velog.io/@yjw326/Flutter-%EA%B0%84%EB%8B%A8%ED%95%9C-UI-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95)
 - [x] 제근 — [결제가 복사가 된다고??](https://cndowy21.tistory.com/53)
 - [x] 정윤 — [Communication-Efficient Learning of Deep Networks from Decentralized Data (FedAvg)](https://velog.io/@itisyijy/Review-Communication-Efficient-Learning-of-Deep-Networksfrom-Decentralized-Data-FedAvg)
