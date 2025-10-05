@@ -13,7 +13,7 @@
 - [x] 정윤 — [Communication-Efficient Learning of Deep Networks from Decentralized Data (FedAvg)](https://velog.io/@itisyijy/Review-Communication-Efficient-Learning-of-Deep-Networksfrom-Decentralized-Data-FedAvg)
 - [ ] 민석 — [카카오톡 25.8 업데이트에 관한 고찰](https://blog.naver.com/beaprotagonist/224032643590)
 - [x] 도이 — [[AI] LangSmith 활용하기](https://velog.io/@kimm00/AI-LangSmith-활용하기)
-- [ ] 유영 — [링크]()
+- [x] 유영 — [AI 기초](https://velog.io/@yuyoung924/AI-기초-LLM과-RAG-그리고-Lang-Chain)
 - [ ] 신형 — [링크]()
 
 <br>
