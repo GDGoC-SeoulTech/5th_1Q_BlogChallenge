@@ -5,7 +5,7 @@
 - [ ] 준희 — [링크]()
 - [ ] 영빈 — [링크]()
 - [x] 준우 — [[Research Note] When Matrices Go Infinite (2/2) : ML Perspective](https://velog.io/@melon-chicken/Research-Note-When-Matrices-Go-Infinite-22-ML-Perspective)
-- [ ] 도협 — [링크]()
+- [x] 도협 — [[Paper Review] Swin Transformer](https://dohyeoplim.medium.com/paper-review-swin-transformer-93197dcf6151)
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
 - [x] 정우 — [Flutter - 간단한 UI 렌더링 과정](https://velog.io/@yjw326/Flutter-%EA%B0%84%EB%8B%A8%ED%95%9C-UI-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95)
