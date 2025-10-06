@@ -3,7 +3,7 @@
 ## 📝 블로그 업로드
 - [x] 지원 — [Chrome 확장 프로그램과 Node.js 서버 간 WebSocket 통신 구축 방법](https://easy1nhard2.tistory.com/30)
 - [ ] 준희 — [링크]()
-- [x] 영빈 — [[Overview]AlexNet](https://velog.io/@lzcuro/OverviewAlexNet)
+- [x] 영빈 — [[ILSVRC]AlexNet](https://velog.io/@lzcuro/OverviewAlexNet1)
 - [x] 준우 — [[Research Note] When Matrices Go Infinite (2/2) : ML Perspective](https://velog.io/@melon-chicken/Research-Note-When-Matrices-Go-Infinite-22-ML-Perspective)
 - [x] 도협 — [[Paper Review] Swin Transformer](https://dohyeoplim.medium.com/paper-review-swin-transformer-93197dcf6151)
 - [ ] 가영 — [링크]()
