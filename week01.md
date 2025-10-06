@@ -14,7 +14,7 @@
 - [x] 민석 — [당신의 바이브 코딩은 티가 난다](https://blog.naver.com/beaprotagonist/224024980141)
 - [x] 도이 — [[AI] 랭체인(LangChain)에 대해 알아보자](https://velog.io/@kimm00/AI-랭체인LangChain에-대해-알아보자)
 - [ ] 유영 — [Hugging Face](https://velog.io/@yuyoung924/AI-Session-1주차-Hugging-Face)
-- [ ] 신형 — [[CoDevMap-AI를-활용해-미디어아트-만들기1](https://velog.io/@shinh09/CoDevMap-AI%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%AF%B8%EB%94%94%EC%96%B4%EC%95%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B01)]
+- [x] 신형 — [[CoDevMap-AI를-활용해-미디어아트-만들기1](https://velog.io/@shinh09/CoDevMap-AI%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%AF%B8%EB%94%94%EC%96%B4%EC%95%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B01)]
 
 <br>
 
@@ -39,4 +39,4 @@
 | **민석**          | [ ] | [✅] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | -   | [✅] | [ ] | [✅] |
 | **도이**          | [✅] | [✅] | [✅] | [✅] | [✅] | [✅] | [✅] | [✅] | [✅] | [✅] | [✅] | -   | [✅] | [✅] |
 | **유영**          | [✅] | [] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [✅] | -   | [ ] |
-| **신형**          | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | -   |
+| **신형**          | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [✅ ] | [ ] | [ ] | [ ] | [ ] | [✅] | -   |
