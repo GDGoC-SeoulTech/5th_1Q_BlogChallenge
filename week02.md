@@ -14,7 +14,7 @@
 - [x] 민석 — [카카오톡 25.8 업데이트에 관한 고찰](https://blog.naver.com/beaprotagonist/224032643590)
 - [x] 도이 — [[AI] LangSmith 활용하기](https://velog.io/@kimm00/AI-LangSmith-활용하기)
 - [x] 유영 — [AI 기초](https://velog.io/@yuyoung924/AI-기초-LLM과-RAG-그리고-Lang-Chain)
-- [ ] 신형 — [링크]()
+- [ ] 신형 — [[CoDevMap] AI를 활용해 미디어아트 만들기(2)](https://velog.io/@shinh09/CoDevMap-AI%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%AF%B8%EB%94%94%EC%96%B4%EC%95%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B02)
 
 <br>
 
