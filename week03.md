@@ -5,7 +5,7 @@
 - [ ] 준희 — [링크]()
 - [ ] 영빈 — [링크]()
 - [ ] 준우 — [링크]()
-- [ ] 도협 — [링크]()
+- [x] 도협 — [[Paper Review] ConvNeXt](https://dohyeoplim.medium.com/paper-review-convnext-e53148f00a7c)
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
 - [ ] 정우 — [링크]()
