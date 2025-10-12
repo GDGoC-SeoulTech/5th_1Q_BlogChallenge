@@ -1,7 +1,7 @@
 # Week 3 - GDG 파워블로거 챌린지
 
 ## 📝 블로그 업로드
-- [ ] 지원 — [링크]()
+- [x] 지원 — [Kotlin 문법 part1](https://easy1nhard2.tistory.com/31)
 - [ ] 준희 — [링크]()
 - [x] 영빈 — [[CS]Compiler](https://velog.io/@lzcuro/CSCompiler)
 - [x] 준우 — [[Reading Note] AI Agents vs. Agentic AI](https://velog.io/@melon-chicken/Reading-Note-AI-Agents-vs.-Agentic-AI)
