@@ -4,7 +4,7 @@
 - [ ] 지원 — [링크]()
 - [ ] 준희 — [링크]()
 - [ ] 영빈 — [링크]()
-- [ ] 준우 — [링크]()
+- [x] 준우 — [[Reading Note] AI Agents vs. Agentic AI](https://velog.io/@melon-chicken/Reading-Note-AI-Agents-vs.-Agentic-AI)
 - [x] 도협 — [[Paper Review] ConvNeXt 우리 CNN 정상 영업합니다.](https://dohyeoplim.medium.com/paper-review-convnext-e53148f00a7c)
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
