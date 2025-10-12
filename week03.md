@@ -2,7 +2,7 @@
 
 ## 📝 블로그 업로드
 - [x] 지원 — [Kotlin 문법 part1](https://easy1nhard2.tistory.com/31)
-- [ ] 준희 — [링크]()
+- [ ] 준희 — [폴링과 SSE](https://velog.io/@kjuni1914/폴링과-SSE)
 - [x] 영빈 — [[CS]Compiler](https://velog.io/@lzcuro/CSCompiler)
 - [x] 준우 — [[Reading Note] AI Agents vs. Agentic AI](https://velog.io/@melon-chicken/Reading-Note-AI-Agents-vs.-Agentic-AI)
 - [x] 도협 — [[Paper Review] ConvNeXt 우리 CNN 정상 영업합니다.](https://dohyeoplim.medium.com/paper-review-convnext-e53148f00a7c)
