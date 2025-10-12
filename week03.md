@@ -8,7 +8,7 @@
 - [x] 도협 — [[Paper Review] ConvNeXt 우리 CNN 정상 영업합니다.](https://dohyeoplim.medium.com/paper-review-convnext-e53148f00a7c)
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
-- [ ] 정우 — [링크]()
+- [x] 정우 — [[Flutter] 프로젝트 구조 - Web FE 프레임워크와 비교하여](https://velog.io/@yjw326/Flutter%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
 - [ ] 제근 — [링크]()
 - [ ] 정윤 — [링크]()
 - [x] 민석 — [XR시대의 유저 인터페이스](https://m.blog.naver.com/beaprotagonist/224038326411)
