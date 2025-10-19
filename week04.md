@@ -6,7 +6,7 @@
 - [ ] 영빈 — [링크]()
 - [x] 준우 — [[Reading Note] Inside Session-Based Recommendation: Category Filtering for Smarter Predictions](https://velog.io/@melon-chicken/Reading-Note-Heres-What-You-Were-Looking-For-Inside-the-Secret-of-Session-Based-Recommendation)
 - [ ] 도협 — [링크]()
-- [ ] 가영 — [링크]()
+- [x] 가영 — [코틀린은 왜 자바와 같은 컴파일 언어인데 선언 순서가 중요할까](https://velog.io/@no-glass-otacku/코틀린은-왜-자바와-같은-컴파일-언어인데-선언-순서가-중요할까)
 - [ ] 하진 — [링크]()
 - [x] 정우 — [[일상] 1일 1커밋, 어떻게 해야 할까...?](https://velog.io/@yjw326/%EC%9D%BC%EC%83%81-1%EC%9D%BC-1%EC%BB%A4%EB%B0%8B-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 - [ ] 제근 — [링크]()
