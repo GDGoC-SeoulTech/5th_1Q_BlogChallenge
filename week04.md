@@ -4,7 +4,7 @@
 - [ ] 지원 — [링크]()
 - [ ] 준희 — [링크]()
 - [ ] 영빈 — [링크]()
-- [ ] 준우 — [링크]()
+- [x] 준우 — [[Reading Note] Inside Session-Based Recommendation: Category Filtering for Smarter Predictions](https://velog.io/@melon-chicken/Reading-Note-Heres-What-You-Were-Looking-For-Inside-the-Secret-of-Session-Based-Recommendation)
 - [ ] 도협 — [링크]()
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
