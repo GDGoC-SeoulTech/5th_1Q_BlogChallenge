@@ -8,7 +8,8 @@
 - [ ] 도협 — [링크]()
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
-- [ ] 정우 — [링크]()
+- [x] 정우 — [[Flutter] Todolist App 만들기
+](https://velog.io/@yjw326/Flutter-Todo-App-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [ ] 제근 — [트랜잭션과 병렬처리에 대한 고찰](https://cndowy21.tistory.com/55)
 - [ ] 정윤 — [링크]()
 - [ ] 민석 — [링크]()
