@@ -7,7 +7,7 @@
 - [ ] 준우 — [링크]()
 - [ ] 도협 — [링크]()
 - [ ] 가영 — [링크]()
-- [ ] 하진 — [링크]()
+- [X] 하진 — [[코틀린첫걸음!!밀린블로그..]](https://pajingi.tistory.com/5)
 - [x] 정우 — [[Flutter] Todolist App 만들기
 ](https://velog.io/@yjw326/Flutter-Todo-App-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [x] 제근 — [트랜잭션과 병렬처리에 대한 고찰](https://cndowy21.tistory.com/55)
