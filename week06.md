@@ -3,7 +3,7 @@
 ## 📝 블로그 업로드
 - [x] 지원 — [[Paper Review] AppAgent: Multimodal Agents as Smartphone Users](https://easy1nhard2.tistory.com/32)
 - [ ] 준희 — [링크]()
-- [ ] 영빈 — [링크]()
+- [x] 영빈 — [[CV]image_filtering](https://velog.io/@lzcuro/CVimage-filtering)
 - [x] 준우 — [[Research Note] Decoding Animal Actions: How Machines Learn Behaviour](https://velog.io/@melon-chicken/%EC%9E%84%EC%8B%9CAI%EB%8A%94-%EB%8F%99%EB%AC%BC%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%A0%EA%B9%8C-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%B3%B8-%ED%96%89%EB%8F%99-%EB%B6%84%EC%84%9D%EC%9D%98-%EC%84%B8%EA%B3%84)
 - [ ] 도협 — [링크]()
 - [ ] 가영 — [링크]()
