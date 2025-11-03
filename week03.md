@@ -14,7 +14,7 @@
 - [x] 민석 — [XR시대의 유저 인터페이스](https://m.blog.naver.com/beaprotagonist/224038326411)
 - [ ] 도이 — [링크]()
 - [ ] 유영 — [링크]()
-- [ ] 신형 — [링크]()
+- [x] 신형 — [[LangChain] 개념 및 환경설정-AuthenticationError(1)](https://velog.io/@shinh09/LangChain-%EA%B0%9C%EB%85%90-%EB%B0%8F-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-AuthenticationError1)
 
 <br>
 
