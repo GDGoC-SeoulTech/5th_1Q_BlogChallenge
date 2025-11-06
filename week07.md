@@ -4,7 +4,7 @@
 - [ ] 지원 — [링크]()
 - [ ] 준희 — [링크]()
 - [ ] 영빈 — [링크]()
-- [ ] 준우 — [링크]()
+- [x] 준우 — [[Computer Vision] DeepLabCut Practice](https://velog.io/@melon-chicken/Computer-Vision-DeepLabCut-Practice)
 - [ ] 도협 — [링크]()
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
