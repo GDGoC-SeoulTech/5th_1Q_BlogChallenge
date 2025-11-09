@@ -4,7 +4,7 @@
 - [ ] 지원 — [링크]()
 - [x] 준희 — [스크롤바로 생기는 레이아웃 시프트 방지하기](https://velog.io/@kjuni1914/스크롤바로-생기는-레이아웃-시프트-방지하기)
 - [ ] 영빈 — [링크]()
-- [ ] 준우 — [링크]()
+- [x] 준우 — [[Tech Insight] Game Off 2025 - Wave](https://velog.io/@melon-chicken/Game-Off-2025-Wave)
 - [ ] 도협 — [링크]()
 - [ ] 가영 — [링크]()
 - [X] 하진 — [[코틀린첫걸음!!밀린블로그..]](https://pajingi.tistory.com/5)
