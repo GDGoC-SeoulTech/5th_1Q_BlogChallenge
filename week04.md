@@ -1,7 +1,7 @@
 # Week 4 - GDG 파워블로거 챌린지
 
 ## 📝 블로그 업로드
-- [ ] 지원 — [링크]()
+- [x] 지원 — [HCI 연구방법론 - Survey](https://easy1nhard2.tistory.com/33)
 - [ ] 준희 — [링크]()
 - [ ] 영빈 — [링크]()
 - [x] 준우 — [[Reading Note] Inside Session-Based Recommendation: Category Filtering for Smarter Predictions](https://velog.io/@melon-chicken/Reading-Note-Heres-What-You-Were-Looking-For-Inside-the-Secret-of-Session-Based-Recommendation)
