@@ -14,7 +14,7 @@
 - [x] 민석 — [낫싱 폰 3A를 산 김에 낫싱OS 톺아보기](https://blog.naver.com/beaprotagonist/224045929149)
 - [ ] 도이 — [링크]()
 - [ ] 유영 — [링크]()
-- [ ] 신형 — [링크]()
+- [x] 신형 — [[LangChain] Model-LLM(4)](https://velog.io/@shinh09/LangChain-Model-LLM4)
 
 <br>
 
