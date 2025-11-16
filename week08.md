@@ -10,7 +10,7 @@
 - [ ] 하진 — [링크]()
 - [ ] 정우 — [링크]()
 - [ ] 제근 — [링크]()
-- [ ] 정윤 — [링크]()
+- [x] 정윤 — [링크](https://velog.io/@itisyijy/Depth-vs-Width-ResNet-vs-Wide-Residual-Networks)
 - [ ] 민석 — [링크]()
 - [ ] 도이 — [링크]()
 - [ ] 유영 — [링크]()
