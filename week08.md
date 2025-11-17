@@ -8,7 +8,7 @@
 - [ ] 도협 — [링크]()
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
-- [ ] 정우 — [링크]()
+- [x] 정우 — [[Flutter] 포켓몬 도감 만들기 - 필터링 기능](https://velog.io/@yjw326/Flutter-%ED%8F%AC%EC%BC%93%EB%AA%AC-%EB%8F%84%EA%B0%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [ ] 제근 — [링크]()
 - [x] 정윤 — [링크](https://velog.io/@itisyijy/Depth-vs-Width-ResNet-vs-Wide-Residual-Networks)
 - [ ] 민석 — [링크]()
