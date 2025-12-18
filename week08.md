@@ -4,7 +4,7 @@
 - [ ] 지원 — [링크]()
 - [ ] 준희 — [링크]()
 - [ ] 영빈 — [링크]()
-- [ ] 준우 — [링크]()
+- [x] 준우 — [[Reading Note] Non-deterministic한 LLM 모델은 어떻게 평가할까](https://velog.io/@melon-chicken/Reading-Note-Non-deterministic%ED%95%9C-LLM-%EB%AA%A8%EB%8D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%8F%89%EA%B0%80%ED%95%A0%EA%B9%8C)
 - [ ] 도협 — [링크]()
 - [ ] 가영 — [링크]()
 - [ ] 하진 — [링크]()
